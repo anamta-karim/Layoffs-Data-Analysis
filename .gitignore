@@ -1,0 +1,15 @@
+# Temporary and editor files
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local environment and credentials
+.env
+.env.*
+
+# Database exports and backups
+*.sql.gz
+*.dump
+*.bak
